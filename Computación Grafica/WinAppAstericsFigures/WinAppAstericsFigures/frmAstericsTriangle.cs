@@ -44,5 +44,35 @@ namespace WinAppAstericsFigures
         {
 
         }
+
+        private void txtNum_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblNum_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grbProcess_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grbInput_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grbOutput_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblFigura_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

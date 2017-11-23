@@ -90,6 +90,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAstericsRectangle.resx">
+      <DependentUpon>frmAstericsRectangle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAstericsRombus.resx">
+      <DependentUpon>frmAstericsRombus.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmAstericsTriangle.resx">
       <DependentUpon>frmAstericsTriangle.cs</DependentUpon>
     </EmbeddedResource>

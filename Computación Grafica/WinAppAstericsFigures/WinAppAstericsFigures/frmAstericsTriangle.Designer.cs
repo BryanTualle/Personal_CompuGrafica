@@ -55,6 +55,7 @@
             this.grbInput.TabIndex = 10;
             this.grbInput.TabStop = false;
             this.grbInput.Text = "Entradas";
+            this.grbInput.Enter += new System.EventHandler(this.grbInput_Enter);
             // 
             // txtNum
             // 
@@ -63,6 +64,7 @@
             this.txtNum.Name = "txtNum";
             this.txtNum.Size = new System.Drawing.Size(132, 22);
             this.txtNum.TabIndex = 1;
+            this.txtNum.TextChanged += new System.EventHandler(this.txtNum_TextChanged);
             // 
             // lblNum
             // 
@@ -73,6 +75,7 @@
             this.lblNum.Size = new System.Drawing.Size(140, 17);
             this.lblNum.TabIndex = 0;
             this.lblNum.Text = "Número de términos:";
+            this.lblNum.Click += new System.EventHandler(this.lblNum_Click);
             // 
             // grbProcess
             // 
@@ -87,6 +90,7 @@
             this.grbProcess.TabIndex = 11;
             this.grbProcess.TabStop = false;
             this.grbProcess.Text = "Proceso";
+            this.grbProcess.Enter += new System.EventHandler(this.grbProcess_Enter);
             // 
             // btnExit
             // 
@@ -133,6 +137,7 @@
             this.grbOutput.TabIndex = 12;
             this.grbOutput.TabStop = false;
             this.grbOutput.Text = "Salidas";
+            this.grbOutput.Enter += new System.EventHandler(this.grbOutput_Enter);
             // 
             // lstFigure
             // 
@@ -153,6 +158,7 @@
             this.lblFigura.Size = new System.Drawing.Size(52, 17);
             this.lblFigura.TabIndex = 2;
             this.lblFigura.Text = "Figura:";
+            this.lblFigura.Click += new System.EventHandler(this.lblFigura_Click);
             // 
             // frmAstericsTriangle
             // 
