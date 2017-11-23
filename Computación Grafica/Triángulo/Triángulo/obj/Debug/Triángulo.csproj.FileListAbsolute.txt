@@ -1,0 +1,10 @@
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\bin\Debug\Triángulo.exe.config
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\bin\Debug\Triángulo.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\bin\Debug\Triángulo.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\obj\Debug\Triángulo.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\obj\Debug\Triángulo.frmTriangle.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\obj\Debug\Triángulo.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\obj\Debug\Triángulo.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\obj\Debug\Triángulo.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\obj\Debug\Triángulo.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Triángulo\Triángulo\obj\Debug\Triángulo.pdb

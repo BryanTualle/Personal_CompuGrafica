@@ -1,0 +1,11 @@
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\bin\Debug\WinAppSeries.exe.config
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\bin\Debug\WinAppSeries.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\bin\Debug\WinAppSeries.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.frmMenu.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.frmSucesion1.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppSeries\WinAppSeries\obj\Debug\WinAppSeries.pdb

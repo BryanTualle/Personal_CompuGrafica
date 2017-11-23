@@ -1,0 +1,11 @@
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\bin\Debug\WinAppGeometricShapesV2.exe.config
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\bin\Debug\WinAppGeometricShapesV2.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\bin\Debug\WinAppGeometricShapesV2.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.frmMenu.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppGeometricShapesV2\WinAppGeometricShapesV2\obj\Debug\WinAppGeometricShapesV2.frmCircle.resources

@@ -1,0 +1,11 @@
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\bin\Debug\WinAppAstericsFigures.exe.config
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\bin\Debug\WinAppAstericsFigures.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\bin\Debug\WinAppAstericsFigures.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.frmAstericsTriangle.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.frmMenu.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppAstericsFigures\WinAppAstericsFigures\obj\Debug\WinAppAstericsFigures.pdb

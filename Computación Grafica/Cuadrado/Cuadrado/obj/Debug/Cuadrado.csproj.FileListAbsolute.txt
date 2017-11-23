@@ -1,0 +1,10 @@
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\obj\Debug\Cuadrado.frmSquare.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Cuadrado\Cuadrado\obj\Debug\Cuadrado.pdb

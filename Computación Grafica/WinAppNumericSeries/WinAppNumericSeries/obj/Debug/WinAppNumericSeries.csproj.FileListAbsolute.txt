@@ -1,0 +1,30 @@
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\bin\Debug\WinAppNumericSeries.exe.config
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\bin\Debug\WinAppNumericSeries.exe
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\bin\Debug\WinAppNumericSeries.pdb
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.csprojResolveAssemblyReference.cache
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmFactorial.resources
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmMenu.resources
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmSum1.resources
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.Properties.Resources.resources
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.csproj.GenerateResource.Cache
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.exe
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.pdb
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmSerieNumE.resources
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmSerieSin.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\bin\Debug\WinAppNumericSeries.exe.config
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.exe
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\bin\Debug\WinAppNumericSeries.exe.config
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\bin\Debug\WinAppNumericSeries.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\bin\Debug\WinAppNumericSeries.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmFactorial.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmMenu.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmSerieNumE.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmSerieSin.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.frmSum1.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\WinAppNumericSeries\WinAppNumericSeries\obj\Debug\WinAppNumericSeries.pdb

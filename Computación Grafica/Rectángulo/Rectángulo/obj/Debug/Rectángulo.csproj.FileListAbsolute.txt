@@ -1,0 +1,10 @@
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\bin\Debug\Rectángulo.exe.config
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\bin\Debug\Rectángulo.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\bin\Debug\Rectángulo.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\obj\Debug\Rectángulo.csprojResolveAssemblyReference.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\obj\Debug\Rectángulo.Properties.Resources.resources
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\obj\Debug\Rectángulo.csproj.GenerateResource.Cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\obj\Debug\Rectángulo.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\obj\Debug\Rectángulo.exe
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\obj\Debug\Rectángulo.pdb
+C:\Users\BRYAN TUALLE\Documents\Computación Grafica\Rectángulo\Rectángulo\Rectángulo\obj\Debug\Rectángulo.frmRectangle.resources
